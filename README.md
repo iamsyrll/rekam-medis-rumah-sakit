@@ -20,7 +20,7 @@
   - Import, Eksport Data : Excel, Pdf, Csv, print & copy to clipboard <br>
   - Form CkEditor <br>
   - Manual Pagination <br>
-  - DataTable (Server Side & Client Side)
+  - DataTable (Server Side & Client Side) <br/>
   - etc.
   
 <br/>
